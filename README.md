@@ -20,3 +20,7 @@ Next.js · React · TypeScript · Tailwind CSS
 npm install
 npm run dev
 ```
+
+## License
+
+Code is released under the [MIT License](LICENSE). Photos, video, artwork, audio and written content are not covered by it: personal media is © Prawal Sharma, all rights reserved, and third-party assets remain under their own licenses. Music credits and terms: [AUDIO-LICENSE.md](AUDIO-LICENSE.md).
